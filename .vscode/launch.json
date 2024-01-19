@@ -1,0 +1,64 @@
+{
+    "configurations": [
+        {
+            "type": "node",
+            "name": "Actualizacion de Inventario",
+            "request": "launch",
+            "program": "${workspaceFolder}\\Actualizacion de Inventario\\Proyecto.js"
+        },
+        {
+            "type": "node",
+            "name": "BubbleSort",
+            "request": "launch",
+            "program": "${workspaceFolder}\\BubbleSort\\Proyecto.js"
+        },
+        {
+            "type": "node",
+            "name": "Busqueda Binaria",
+            "request": "launch",
+            "program": "${workspaceFolder}\\Busqueda Binaria\\Proyecto.js"
+        },
+        {
+            "type": "node",
+            "name": "Diferencia Simetrica",
+            "request": "launch",
+            "program": "${workspaceFolder}\\Diferencia Simetrica\\Proyecto.js"
+        },
+        {
+            "type": "node",
+            "name": "HeapSort",
+            "request": "launch",
+            "program": "${workspaceFolder}\\HeapSort\\Proyecto.js"
+        },
+        {
+            "type": "node",
+            "name": "InsertionSort",
+            "request": "launch",
+            "program": "${workspaceFolder}\\InsertionSort\\Proyecto.js"
+        },
+        {
+            "type": "node",
+            "name": "MergeSort",
+            "request": "launch",
+            "program": "${workspaceFolder}\\MergeSort\\Proyecto.js"
+        },
+        {
+            "type": "node",
+            "name": "Pares que Suman el 2do Arg",
+            "request": "launch",
+            "program": "${workspaceFolder}\\Pares que Suman el 2do Arg\\Proyecto.js"
+        },
+        {
+            "type": "node",
+            "name": "QuickSort",
+            "request": "launch",
+            "program": "${workspaceFolder}\\QuickSort\\Proyecto.js"
+        },
+        {
+            "type": "node",
+            "name": "SelectionSort",
+            "request": "launch",
+            "program": "${workspaceFolder}\\SelectionSort\\Proyecto.js"
+        }
+    ]
+}
